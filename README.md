@@ -1,3 +1,8 @@
+{{gregcolongo@yahoo.fr}}
+
+{{}}
+
+
 ![This is an image](https://www.bestdesigns.co/uploads/inspiration_images/4350/990__1511457498_404_walmart.png)
 
 # Walmart : predict weekly sales #
